@@ -7,7 +7,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    printf("Hello Git!\n");
+    printf("Hello Githubbbbbbbbbbbbb!\n");
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
