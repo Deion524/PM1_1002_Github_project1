@@ -5,5 +5,5 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-    printf("change pullRequest Brunch\n");
+    printf("Fixed Conflict!\n");
 }
